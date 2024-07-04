@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Roomeo</string>
+    <string name="Login_header">Login</string>
+    <string name="Registration_header">Register</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+    <string name="reservations">Reservations</string>
+    <string name="notifications">Notifications</string>
+    <string name="hello_blank_fragment">Notifications</string>
+    <string name="name_placeholder">John Doe</string>
+    <string name="email_placeholder">email@examle.com</string>
+    <string name="phone_placeholder">0600538922</string>
+    <string name="address_placeholder">Jevrejska 8, Novi Sad</string>
+    <string name="guest">Guest</string>
+    <string name="delete_account">Permanently delete your account</string>
+</resources>
